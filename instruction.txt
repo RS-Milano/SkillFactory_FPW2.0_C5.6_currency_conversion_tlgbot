@@ -1,0 +1,10 @@
+I'm converting currency bot.
+Commands:
+/start, /help - instruction
+/values - available currencies
+For use send me a message:
+<currency for which you need> <currency at which you need> <amount of currency>
+A short letter code is used to indicate the currency (see the list by command /values)
+For example:
+RUB USD 1000
+Enjoy using
